@@ -1,6 +1,6 @@
 # SonicADRecon
 
-A comprehensive C# Windows Forms application for LDAP domain management, allowing users to connect to Active Directory domain controllers, extract users, groups, and group policies, and manage user passwords with appropriate permissions.
+A comprehensive C# Windows Forms application for LDAP domain management, allowing administrators to connect to Active Directory domain controllers, extract users, groups, and group policies, and manage user passwords with appropriate permissions.
 
 ## Features
 
